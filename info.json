@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9b7bd6ef54c7d35b62334e0e140219b5a3853361",
+    "author": "MahShaaban <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
+    "time": "2020-01-04 04:10:25",
+    "files": 5,
+    "merge": false,
+    "message": "Minor changes for v0.1.1\n\t- Skip app testing on CRAN\n\t- Add related article citation information\n\t- Updated readme and news\n"
+  },
+  "repo": "https://github.com/ropensci/colocr",
+  "pkg": "colocr"
+}
